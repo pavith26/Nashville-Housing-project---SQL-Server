@@ -1,1 +1,1 @@
-Project carried out in SQL Server with data on COVID-19 from the following website: https://ourworldindata.org/covid-deaths
+Project carried out in SQL Server with data on COVID-19 from the following website: https://ourworldindata.org/covid-deaths. Data imported into SQL Server from an Excel file using SQL Server Import and Export Data (64-bit).
